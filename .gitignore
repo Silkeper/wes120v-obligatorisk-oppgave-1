@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 Ignorer denne mappen
+public
 
 node_modules
 dist
