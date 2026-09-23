@@ -1,6 +1,9 @@
 # WEST120V ARBEIDSKRAV
 
-Dette er et enkelt Vite-prosjekt laget i forbindelse med WES120V.
+## Om prosjektet
+
+Prosjektet er laget som en del av WES120V og brukes til å demonstrere
+en fungerende utviklingsverktøykjede med Vite, pnpm og Git.
 
 ## Krav
 
@@ -8,7 +11,7 @@ Prosjektet krever Node.js og pnpm.
 
 ## Installering
 
-Installer prosjektets avhengigheter:
+prosjektets avhengigheter:
 
 ```bash
 pnpm install
