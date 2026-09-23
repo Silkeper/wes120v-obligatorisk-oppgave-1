@@ -12,3 +12,9 @@ Installer prosjektets avhengigheter:
 
 ```bash
 pnpm install
+
+## Start utviklingsserveren
+
+pnpm dev
+
+Åpne deretter adressen som Vite viser i terminalen
