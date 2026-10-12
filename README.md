@@ -37,4 +37,4 @@ prosjektets avhengigheter:
 
 ```bash
 pnpm install
->>>>>>> dokumenter:README.md.txt
+
